@@ -1,3 +1,7 @@
+## This project is sunset
+
+See the new [iGMT](https://github.com/GenericMappingTools/InteractiveGMT)
+
 # GMTF3D.jl
 
 [![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://joa-quim.github.io/GMTF3D.jl/dev/)
